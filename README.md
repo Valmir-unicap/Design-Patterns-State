@@ -1,6 +1,6 @@
 # Liferay-Knowledge-Sharing-Session
 
-## Meta do quarter Q3 - Apresentar 2 Design Pattern
+## Meta de Q3 - Apresentar 2 Design Patterns
 
 - State
 - Prototype
